@@ -1,0 +1,28 @@
+td {
+    text-align: center;
+  }
+
+  .fa {
+    padding: 10px;
+    font-size: 20px;
+    width: 50px;
+    text-align: bottom;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+
+  .fa-facebook {
+    background: #ebedf1;
+    color: rgba(252, 252, 252, 0.959):
+  }
+
+  .fa-instagram {
+    background: hsl(200, 13%, 95%);
+    color: rgb(86, 16, 167);
+  }
+
+
+
+  .jumbotron {
+    background-color: #8d9292;
+  }
